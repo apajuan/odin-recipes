@@ -1,0 +1,15 @@
+@import url(https://fonts.googleapis.com/css2?family=Merriweather&display=swap);
+
+body {
+    background-color: #A7D49B;
+    text-align: center;
+}
+h1,h2,h4 {
+    color: #5A1807;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+ul{
+    text-align: left;
+    list-style-position: inside;
+}
